@@ -100,13 +100,13 @@ camera.captureVideo();
 //  action 3: camera capture panorama
 camera.capturePanorama();
 //  7)
-//  Noun:     spaceship
-//  action 1: spaceship takeoff
-spaceShip.takeoff();
-//  action 2: spaceship land
-spaceShip.land();
-//  action 3: spaceship captures Earth
-spaceShip.captureEarth(); 
+//  Noun:     stove
+//  action 1: turn stove on
+cookingStove.turnOn();
+//  action 2: turn stove off
+cookingStove.turnOff();
+//  action 3: set stove temperature
+cookingStove.setTemperature(); 
 //  8)
 //  Noun:     wheelchair
 //  action 1: wheelchair moves forward 
