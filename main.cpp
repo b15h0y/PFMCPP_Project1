@@ -102,36 +102,36 @@ camera.capturePanorama();
 //  7)
 //  Noun:     spaceship
 //  action 1: spaceship takeoff
-spaceship.takeoff();
+spaceShip.takeoff();
 //  action 2: spaceship land
-spaceship.land();
+spaceShip.land();
 //  action 3: spaceship captures Earth
-spaceship.captureEarth(); 
+spaceShip.captureEarth(); 
 //  8)
 //  Noun:     wheelchair
 //  action 1: wheelchair moves forward 
-wheelchair.moveForward();
+wheelChair.moveForward();
 //  action 2: wheelchair moves backward
-wheelchair.moveBackward();
+wheelChair.moveBackward();
 //  action 3: wheelchair rotates
-wheelchair.rotate();
+wheelChair.rotate();
 //  9)
 //  Noun:     screwdriver
 //  action 1: screwdriver screw bolt
-screwdriver.screwBolt();
+screwDriver.screwBolt();
 //  action 2: screwdriver unscrew bolt
-screwdriver.unscrewBolt();
+screwDriver.unscrewBolt();
 //  action 3: screwdriver rotate
-screwdriver.rotate();
+screwDriver.rotate();
 
 //  10)
 //  Noun:     coffe machine
 //  action 1: coffe machine grinde coffee
-coffemachine.grinde()
+coffeMachine.grinde();
 //  action 2: coffe machine makes latte
-coffemachine.makeLatte()
+coffeMachine.makeLatte();
 //  action 3: coffe machine makes espresso
-coffemachine.makeEspresso()
+coffeMachine.makeEspresso();
 
 
 #endif
