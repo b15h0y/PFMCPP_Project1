@@ -52,85 +52,86 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:     motor
+//  action 1: motor rotates 90 degrees counter-clockwise
+motor.rotate90CC();
+//  action 2: motor rotates 90 degrees clockwise
+motor.rotate90C();
+//  action 3: motor current consumption
+motor.currentConsumption();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:     plugin
+//  action 1: plugin produce sound
+plugin.produceSound();
+//  action 2: plugin produce noise
+plugin.produceNoise();
+//  action 3: plugin adds reverb
+plugin.addReverb();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:     drone 
+//  action 1: drone fly
+drone.fly();
+//  action 2: drone land
+drone.land();
+//  action 3: drone takes image
+drone.takeImage();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:     robot
+//  action 1: robot move forward
+robot.moveForward();
+//  action 2: robot rotate counter-clockwise
+robot.rotateCounterClockwise();
+//  action 3: robot capture image
+robot.captureImage();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:     mobile
+//  action 1: mobile call
+mobile.call();
+//  action 2: mobile access internet
+mobile.accessInternet();
+//  action 3: mobile take image
+mobile.takeImage();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:     camera
+//  action 1: camera takes image
+camera.takeImage();
+//  action 2: camera captures video
+camera.captureVideo();
+//  action 3: camera capture panorama
+camera.capturePanorama();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:     stove
+//  action 1: turn stove on
+cookingStove.turnOn();
+//  action 2: turn stove off
+cookingStove.turnOff();
+//  action 3: set stove temperature
+cookingStove.setTemperature(); 
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:     wheelchair
+//  action 1: wheelchair moves forward 
+wheelChair.moveForward();
+//  action 2: wheelchair moves backward
+wheelChair.moveBackward();
+//  action 3: wheelchair rotates
+wheelChair.rotate();
 //  9)
-//  Noun:
-//  action 1:
+//  Noun:     screwdriver
+//  action 1: screwdriver screw bolt
+screwDriver.screwBolt();
+//  action 2: screwdriver unscrew bolt
+screwDriver.unscrewBolt();
+//  action 3: screwdriver rotate
+screwDriver.rotate();
 
-//  action 2:
-
-//  action 3:
- 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:     coffe machine
+//  action 1: coffe machine grinde coffee
+coffeMachine.grinde();
+//  action 2: coffe machine makes latte
+coffeMachine.makeLatte();
+//  action 3: coffe machine makes espresso
+coffeMachine.makeEspresso();
 
 
 #endif
